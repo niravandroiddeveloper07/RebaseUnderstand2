@@ -6,6 +6,7 @@ import android.os.Bundle
 // second commit
 // third commit
 // fourth commit
+// six commit
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
